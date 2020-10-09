@@ -12,7 +12,7 @@ def key_for_min_value(hash)
       lowest_key = k
     end
   end
-  lowest_key
+  puts lowest_key
 end
 
 key_for_min_value(ikea)
