@@ -15,4 +15,4 @@ def key_for_min_value(hash)
   puts lowest_key
 end
 
-key_for_min_value(ikea)
+key_for_min_value(names)
